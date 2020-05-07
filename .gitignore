@@ -130,3 +130,6 @@ dmypy.json
 
 # Config file with the openweathermap token
 config.json
+
+# IDE folders
+.idea/
