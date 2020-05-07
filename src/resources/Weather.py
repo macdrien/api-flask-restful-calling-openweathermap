@@ -3,7 +3,7 @@ from flask_restful import Resource
 import requests
 import json
 
-with open('common/config.json', 'r') as configFile:
+with open('../common/config.json', 'r') as configFile:
     API_KEY = json.loads(configFile.read())['token']
 
 URL = "https://api.openweathermap.org/data/2.5/weather"
