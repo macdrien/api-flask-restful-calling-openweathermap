@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # Config file with the openweathermap token
-config.json
+src/common/config.json
 
 # IDE folders
 .idea/
