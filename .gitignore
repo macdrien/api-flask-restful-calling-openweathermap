@@ -133,3 +133,4 @@ src/common/config.json
 
 # IDE folders
 .idea/
+.vscode/
